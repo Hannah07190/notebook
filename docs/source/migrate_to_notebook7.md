@@ -1,5 +1,4 @@
 # Migrating to Notebook 7
-
 _Updated 2023-05-17_
 
 ```{warning}
